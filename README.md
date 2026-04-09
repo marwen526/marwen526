@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Marwen
 
-<!--
-**marwen526/marwen526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+🚀 React | Node.js|Java script | Python | Flask |
+📍 Düsseldorf, Germany  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+- JavaScript, Python  
+- React (Vite), HTML, CSS, Bootstrap, Tailwind  
+- Node.js, Flask, REST APIs  
+- MySQL, MongoDB  
+- Git, GitHub, Docker  
+
+---
+
+## 📂 Projects
+
+- Full Stack Web Application (React, Node.js)  
+- EBO Portal (React, Node.js)  
+- Flask API (Python)  
+- Booking System (JavaScript)  
+
+---
+
+## 📫 Contact Me
+
+- Email: allalamarwen3@gmail.com  
+- GitHub: https://github.com/marwen526  
+
+---
+
+⭐ Always learning and building new projects
